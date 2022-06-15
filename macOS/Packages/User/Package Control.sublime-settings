@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AlignTab",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlight",
+		"ConvertToUTF8",
+		"Emmet",
+		"FileIcons",
+		"GitGutter",
+		"HexViewer",
+		"LiveReload",
+		"MarkdownPreview",
+		"Origami",
+		"Package Control",
+		"Random Everything",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"Text Pastry",
+	],
+}
