@@ -1,0 +1,1107 @@
+{
+	"folder_history":
+	[
+		"/C/Projects/zionex.com/project-ls-docs-2022"
+	],
+	"last_version": 4126,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"next_update_check": 1655345262,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 831.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pcip",
+						"Package Control: Install Package"
+					],
+					[
+						"pcrp",
+						"Package Control: Remove Package"
+					],
+					[
+						"pclp",
+						"Package Control: List Packages"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"livereload",
+						"LiveReload: Enable/disable plug-ins"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/kiros33/Downloads/MSOffice2019Pro/1.down.bat"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Command"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1194.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "Text/ServerInfo.md",
+					"settings":
+					{
+						"buffer_size": 80,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": "# Title"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "#M"
+							},
+							"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							2,
+							1,
+							"insert",
+							{
+								"characters": "ark"
+							},
+							"AwAAAAIAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAUAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							3,
+							4,
+							"left_delete",
+							null,
+							"BAAAAAQAAAAAAAAABAAAAAAAAAABAAAAawMAAAAAAAAAAwAAAAAAAAABAAAAcgIAAAAAAAAAAgAAAAAAAAABAAAAYQEAAAAAAAAAAQAAAAAAAAABAAAATQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": " Title"
+							},
+							"BgAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "\n\n###"
+							},
+							"BQAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": " Title"
+							},
+							"BgAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABIAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAABIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": "```"
+							},
+							"AwAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "Powershell"
+							},
+							"CgAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIQAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAACEAAAAAAAAAIgAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "Get-"
+							},
+							"BAAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "P"
+							},
+							"AQAAACYAAAAAAAAAJwAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							13,
+							5,
+							"left_delete",
+							null,
+							"BQAAACYAAAAAAAAAJgAAAAAAAAABAAAAUCUAAAAAAAAAJQAAAAAAAAABAAAALSQAAAAAAAAAJAAAAAAAAAABAAAAdCMAAAAAAAAAIwAAAAAAAAABAAAAZSIAAAAAAAAAIgAAAAAAAAABAAAARw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							15,
+							1,
+							"paste",
+							null,
+							"AQAAACIAAAAAAAAAQgAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "\n```"
+							},
+							"BAAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCAAAAAAAAAEIAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							23,
+							1,
+							"insert",
+							{
+								"characters": "\n*"
+							},
+							"AgAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": " Commands"
+							},
+							"CQAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							25,
+							1,
+							"left_delete",
+							null,
+							"AQAAAB0AAAAAAAAAHQAAAAAAAAABAAAAcw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							30,
+							1,
+							"insert",
+							{
+								"characters": "s"
+							},
+							"AQAAAFAAAAAAAAAAUQAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							33,
+							1,
+							"left_delete",
+							null,
+							"AQAAAFAAAAAAAAAAUAAAAAAAAAABAAAAcw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABRAAAAAAAAAFEAAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nHexViewer\n---------\n\n  # HexViewer\n\n  Welcome to HexViewer!  Please read the documentation at  \n  `Preferences->Package Settings->HexViewer->Documentation`.\n\nConvertToUTF8\n-------------\n\n  ConvertToUTF8\n  ==================\n  With this plugin, you can edit and save the files which encodings are not supported by Sublime Text currently, especially for those used by CJK users, such as GB2312, GBK, BIG5, EUC-KR, EUC-JP, etc.\n\n  Configuration\n  ------------------\n  Please check ConvertToUTF8.sublime-settings file for details. You should save your personal settings in a file named \"ConvertToUTF8.sublime-settings\" under \"User\" folder.\n\n  * encoding_list: encoding selection list when detection is failed\n  * max_cache_size: maximum encoding cache size, 0 means no cache (default: 100)\n  * max_detect_lines: maximum detection lines, 0 means unlimited (default: 600)\n  * preview_action: converting the file's content to UTF-8 when previewing it (default: false)\n  * default_encoding_on_create: specific the default encoding for newly created file (such as \"GBK\"), empty value means using sublime text's \"default_encoding\" setting (default: '')\n  * convert_on_load: convert the file's content to UTF-8 when it is loaded (default: true)\n  * convert_on_save: convert the file's content from UTF-8 to its original (or specific) encoding when it is saved (default: true)\n  * convert_on_find: convert the text in Find Results view to UTF-8 (default: false)\n  * lazy_reload: save file to a temporary location, and reload it in background when switching to other windows or tabs (default: false)\n\n  Contact me\n  ------------------\n  Please send me your questions or suggestions: sunlxy (at) yahoo.com or http://weibo.com/seanliang\n\n  For more information, please visit: https://github.com/seanliang/ConvertToUTF8\n\nAdvancedNewFile\n---------------\n\n  Thank you for installing the AdvancedNewFile plugin.\n\n  For more information please visit https://github.com/skuroda/Sublime-AdvancedNewFile.\n\n  Note you may need to restart Sublime Text after installing this plugin.\n\n  If you have any questions, comments, or run into issues, please let me know! Hope you enjoy the plugin.\n\n  Thank you!\n\nEmmet\n-----\n\n  Emmet plugin installed\n\n  Emmet is a web-developer’s toolkit for boosting HTML & CSS code writing.\n\n  With Emmet, you can type expressions (abbreviations) similar to CSS selectors and convert them into code fragment with a single keystroke. For example, this abbreviation:\n\n  ul#nav>li.item$*4>a{Item $}\n\n  ...can be expanded into:\n\n  <ul id=\"nav\">\n      <li class=\"item1\"><a href=\"\">Item 1</a></li>\n      <li class=\"item2\"><a href=\"\">Item 2</a></li>\n      <li class=\"item3\"><a href=\"\">Item 3</a></li>\n      <li class=\"item4\"><a href=\"\">Item 4</a></li>\n  </ul>\n\n  Read more about Emmet for Sublime Text:\n  https://github.com/emmetio/sublime-text-plugin#readme\n\nColor Highlighter\n-----------------\n\n\n  Color Highlighter v8.0 is released!\n\n  For more info about the plugin visit https://github.com/Monnoroch/ColorHighlighter.\n\n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned\n  over the years.\n\n  This is the first release of the new version and it might have some subtle bugs, especially on Windows and Mac, as I\n  don't have machines with these systems. If you find any bugs, please file them in\n  the bug tracker here: https://github.com/Monnoroch/ColorHighlighter/issues. I always appreciate your help and try to fix\n  problems as soon as possible.\n\n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it\n  better and faster, donations as always welcome.\n\n  Thank you guys for your support, every little bit helps!",
+					"settings":
+					{
+						"buffer_size": 3949,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "Package Control Messages\n========================\n\nHexViewer\n---------\n\n  # HexViewer\n\n  Welcome to HexViewer!  Please read the documentation at  \n  `Preferences->Package Settings->HexViewer->Documentation`."
+							},
+							"EAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAABGAAAAAAAAAAAAAABGAAAAAAAAAEcAAAAAAAAAAAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAACSAAAAAAAAAAAAAACSAAAAAAAAAJMAAAAAAAAAAAAAAJMAAAAAAAAAzwAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							2,
+							1,
+							"insert",
+							{
+								"characters": "\n\nConvertToUTF8\n-------------\n\n  ConvertToUTF8\n  ==================\n  With this plugin, you can edit and save the files which encodings are not supported by Sublime Text currently, especially for those used by CJK users, such as GB2312, GBK, BIG5, EUC-KR, EUC-JP, etc.\n\n  Configuration\n  ------------------\n  Please check ConvertToUTF8.sublime-settings file for details. You should save your personal settings in a file named \"ConvertToUTF8.sublime-settings\" under \"User\" folder.\n\n  * encoding_list: encoding selection list when detection is failed\n  * max_cache_size: maximum encoding cache size, 0 means no cache (default: 100)\n  * max_detect_lines: maximum detection lines, 0 means unlimited (default: 600)\n  * preview_action: converting the file's content to UTF-8 when previewing it (default: false)\n  * default_encoding_on_create: specific the default encoding for newly created file (such as \"GBK\"), empty value means using sublime text's \"default_encoding\" setting (default: '')\n  * convert_on_load: convert the file's content to UTF-8 when it is loaded (default: true)\n  * convert_on_save: convert the file's content from UTF-8 to its original (or specific) encoding when it is saved (default: true)\n  * convert_on_find: convert the text in Find Results view to UTF-8 (default: false)\n  * lazy_reload: save file to a temporary location, and reload it in background when switching to other windows or tabs (default: false)\n\n  Contact me\n  ------------------\n  Please send me your questions or suggestions: sunlxy (at) yahoo.com or http://weibo.com/seanliang\n\n  For more information, please visit: https://github.com/seanliang/ConvertToUTF8"
+							},
+							"MAAAAM8AAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADRAAAAAAAAAAAAAADRAAAAAAAAAN4AAAAAAAAAAAAAAN4AAAAAAAAA3wAAAAAAAAAAAAAA3wAAAAAAAADsAAAAAAAAAAAAAADsAAAAAAAAAO0AAAAAAAAAAAAAAO0AAAAAAAAA7gAAAAAAAAAAAAAA7gAAAAAAAAD9AAAAAAAAAAAAAAD9AAAAAAAAAP4AAAAAAAAAAAAAAP4AAAAAAAAAEgEAAAAAAAAAAAAAEgEAAAAAAAATAQAAAAAAAAAAAAATAQAAAAAAANsBAAAAAAAAAAAAANsBAAAAAAAA3AEAAAAAAAAAAAAA3AEAAAAAAADdAQAAAAAAAAAAAADdAQAAAAAAAOwBAAAAAAAAAAAAAOwBAAAAAAAA7QEAAAAAAAAAAAAA7QEAAAAAAAABAgAAAAAAAAAAAAABAgAAAAAAAAICAAAAAAAAAAAAAAICAAAAAAAArgIAAAAAAAAAAAAArgIAAAAAAACvAgAAAAAAAAAAAACvAgAAAAAAALACAAAAAAAAAAAAALACAAAAAAAA8wIAAAAAAAAAAAAA8wIAAAAAAAD0AgAAAAAAAAAAAAD0AgAAAAAAAEQDAAAAAAAAAAAAAEQDAAAAAAAARQMAAAAAAAAAAAAARQMAAAAAAACUAwAAAAAAAAAAAACUAwAAAAAAAJUDAAAAAAAAAAAAAJUDAAAAAAAA8wMAAAAAAAAAAAAA8wMAAAAAAAD0AwAAAAAAAAAAAAD0AwAAAAAAAKkEAAAAAAAAAAAAAKkEAAAAAAAAqgQAAAAAAAAAAAAAqgQAAAAAAAAEBQAAAAAAAAAAAAAEBQAAAAAAAAUFAAAAAAAAAAAAAAUFAAAAAAAAhwUAAAAAAAAAAAAAhwUAAAAAAACIBQAAAAAAAAAAAACIBQAAAAAAANwFAAAAAAAAAAAAANwFAAAAAAAA3QUAAAAAAAAAAAAA3QUAAAAAAABlBgAAAAAAAAAAAABlBgAAAAAAAGYGAAAAAAAAAAAAAGYGAAAAAAAAZwYAAAAAAAAAAAAAZwYAAAAAAABzBgAAAAAAAAAAAABzBgAAAAAAAHQGAAAAAAAAAAAAAHQGAAAAAAAAiAYAAAAAAAAAAAAAiAYAAAAAAACJBgAAAAAAAAAAAACJBgAAAAAAAOwGAAAAAAAAAAAAAOwGAAAAAAAA7QYAAAAAAAAAAAAA7QYAAAAAAADuBgAAAAAAAAAAAADuBgAAAAAAAD4HAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADPAAAAAAAAAM8AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "\n\nAdvancedNewFile\n---------------\n\n  Thank you for installing the AdvancedNewFile plugin.\n\n  For more information please visit https://github.com/skuroda/Sublime-AdvancedNewFile.\n\n  Note you may need to restart Sublime Text after installing this plugin.\n\n  If you have any questions, comments, or run into issues, please let me know! Hope you enjoy the plugin.\n\n  Thank you!"
+							},
+							"FAAAAD4HAAAAAAAAPwcAAAAAAAAAAAAAPwcAAAAAAABABwAAAAAAAAAAAABABwAAAAAAAE8HAAAAAAAAAAAAAE8HAAAAAAAAUAcAAAAAAAAAAAAAUAcAAAAAAABfBwAAAAAAAAAAAABfBwAAAAAAAGAHAAAAAAAAAAAAAGAHAAAAAAAAYQcAAAAAAAAAAAAAYQcAAAAAAACXBwAAAAAAAAAAAACXBwAAAAAAAJgHAAAAAAAAAAAAAJgHAAAAAAAAmQcAAAAAAAAAAAAAmQcAAAAAAADwBwAAAAAAAAAAAADwBwAAAAAAAPEHAAAAAAAAAAAAAPEHAAAAAAAA8gcAAAAAAAAAAAAA8gcAAAAAAAA7CAAAAAAAAAAAAAA7CAAAAAAAADwIAAAAAAAAAAAAADwIAAAAAAAAPQgAAAAAAAAAAAAAPQgAAAAAAACmCAAAAAAAAAAAAACmCAAAAAAAAKcIAAAAAAAAAAAAAKcIAAAAAAAAqAgAAAAAAAAAAAAAqAgAAAAAAAC0CAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+BwAAAAAAAD4HAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "\n\nEmmet\n-----\n\n  Emmet plugin installed\n\n  Emmet is a web-developer’s toolkit for boosting HTML & CSS code writing.\n\n  With Emmet, you can type expressions (abbreviations) similar to CSS selectors and convert them into code fragment with a single keystroke. For example, this abbreviation:\n\n  ul#nav>li.item$*4>a{Item $}\n\n  ...can be expanded into:\n\n  <ul id=\"nav\">\n      <li class=\"item1\"><a href=\"\">Item 1</a></li>\n      <li class=\"item2\"><a href=\"\">Item 2</a></li>\n      <li class=\"item3\"><a href=\"\">Item 3</a></li>\n      <li class=\"item4\"><a href=\"\">Item 4</a></li>\n  </ul>\n\n  Read more about Emmet for Sublime Text:\n  https://github.com/emmetio/sublime-text-plugin#readme"
+							},
+							"JgAAALQIAAAAAAAAtQgAAAAAAAAAAAAAtQgAAAAAAAC2CAAAAAAAAAAAAAC2CAAAAAAAALsIAAAAAAAAAAAAALsIAAAAAAAAvAgAAAAAAAAAAAAAvAgAAAAAAADBCAAAAAAAAAAAAADBCAAAAAAAAMIIAAAAAAAAAAAAAMIIAAAAAAAAwwgAAAAAAAAAAAAAwwgAAAAAAADbCAAAAAAAAAAAAADbCAAAAAAAANwIAAAAAAAAAAAAANwIAAAAAAAA3QgAAAAAAAAAAAAA3QgAAAAAAAAnCQAAAAAAAAAAAAAnCQAAAAAAACgJAAAAAAAAAAAAACgJAAAAAAAAKQkAAAAAAAAAAAAAKQkAAAAAAADVCQAAAAAAAAAAAADVCQAAAAAAANYJAAAAAAAAAAAAANYJAAAAAAAA1wkAAAAAAAAAAAAA1wkAAAAAAAD0CQAAAAAAAAAAAAD0CQAAAAAAAPUJAAAAAAAAAAAAAPUJAAAAAAAA9gkAAAAAAAAAAAAA9gkAAAAAAAAQCgAAAAAAAAAAAAAQCgAAAAAAABEKAAAAAAAAAAAAABEKAAAAAAAAEgoAAAAAAAAAAAAAEgoAAAAAAAAhCgAAAAAAAAAAAAAhCgAAAAAAACIKAAAAAAAAAAAAACIKAAAAAAAAVAoAAAAAAAAAAAAAVAoAAAAAAABVCgAAAAAAAAAAAABVCgAAAAAAAIcKAAAAAAAAAAAAAIcKAAAAAAAAiAoAAAAAAAAAAAAAiAoAAAAAAAC6CgAAAAAAAAAAAAC6CgAAAAAAALsKAAAAAAAAAAAAALsKAAAAAAAA7QoAAAAAAAAAAAAA7QoAAAAAAADuCgAAAAAAAAAAAADuCgAAAAAAAPUKAAAAAAAAAAAAAPUKAAAAAAAA9goAAAAAAAAAAAAA9goAAAAAAAD3CgAAAAAAAAAAAAD3CgAAAAAAACALAAAAAAAAAAAAACALAAAAAAAAIQsAAAAAAAAAAAAAIQsAAAAAAABYCwAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC0CAAAAAAAALQIAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "\n\nColor Highlighter\n-----------------\n\n\n  Color Highlighter v8.0 is released!\n\n  For more info about the plugin visit https://github.com/Monnoroch/ColorHighlighter.\n\n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned\n  over the years.\n\n  This is the first release of the new version and it might have some subtle bugs, especially on Windows and Mac, as I\n  don't have machines with these systems. If you find any bugs, please file them in\n  the bug tracker here: https://github.com/Monnoroch/ColorHighlighter/issues. I always appreciate your help and try to fix\n  problems as soon as possible.\n\n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it\n  better and faster, donations as always welcome.\n\n  Thank you guys for your support, every little bit helps!"
+							},
+							"JgAAAFgLAAAAAAAAWQsAAAAAAAAAAAAAWQsAAAAAAABaCwAAAAAAAAAAAABaCwAAAAAAAGsLAAAAAAAAAAAAAGsLAAAAAAAAbAsAAAAAAAAAAAAAbAsAAAAAAAB9CwAAAAAAAAAAAAB9CwAAAAAAAH4LAAAAAAAAAAAAAH4LAAAAAAAAfwsAAAAAAAAAAAAAfwsAAAAAAACACwAAAAAAAAAAAACACwAAAAAAAKULAAAAAAAAAAAAAKULAAAAAAAApgsAAAAAAAAAAAAApgsAAAAAAACnCwAAAAAAAAAAAACnCwAAAAAAAPwLAAAAAAAAAAAAAPwLAAAAAAAA/QsAAAAAAAAAAAAA/QsAAAAAAAD+CwAAAAAAAAAAAAD+CwAAAAAAAF0MAAAAAAAAAAAAAF0MAAAAAAAAXgwAAAAAAAAAAAAAXgwAAAAAAACoDAAAAAAAAAAAAACoDAAAAAAAAKkMAAAAAAAAAAAAAKkMAAAAAAAAHA0AAAAAAAAAAAAAHA0AAAAAAAAdDQAAAAAAAAAAAAAdDQAAAAAAAC4NAAAAAAAAAAAAAC4NAAAAAAAALw0AAAAAAAAAAAAALw0AAAAAAAAwDQAAAAAAAAAAAAAwDQAAAAAAAKYNAAAAAAAAAAAAAKYNAAAAAAAApw0AAAAAAAAAAAAApw0AAAAAAAD6DQAAAAAAAAAAAAD6DQAAAAAAAPsNAAAAAAAAAAAAAPsNAAAAAAAAdQ4AAAAAAAAAAAAAdQ4AAAAAAAB2DgAAAAAAAAAAAAB2DgAAAAAAAJUOAAAAAAAAAAAAAJUOAAAAAAAAlg4AAAAAAAAAAAAAlg4AAAAAAACXDgAAAAAAAAAAAACXDgAAAAAAAP8OAAAAAAAAAAAAAP8OAAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAxDwAAAAAAAAAAAAAxDwAAAAAAADIPAAAAAAAAAAAAADIPAAAAAAAAMw8AAAAAAAAAAAAAMw8AAAAAAABtDwAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABYCwAAAAAAAFgLAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"contents": "@charset \"UTF-8\";.blind {\n    position: absolute;\n    clip: rect(0 0 0 0);\n    width: 1px;\n    height: 1px;\n    margin: -1px;\n    overflow: hidden\n}\n\n#u_skip {\n    position: relative;\n    z-index: 3000\n}\n\n#u_skip a {\n    position: absolute;\n    top: -30px;\n    left: 0;\n    width: 138px;\n    border: 1px solid #4ec53d;\n    background: #333;\n    text-align: center\n}\n\n#u_skip a:active,#u_skip a:focus {\n    top: 0;\n    text-decoration: none;\n    z-index: 1000\n}\n\n#u_skip span {\n    display: inline-block;\n    padding: 2px 6px 0 0;\n    font-size: 13px;\n    line-height: 26px;\n    color: #fff;\n    letter-spacing: -1px;\n    white-space: nowrap\n}\n\nbody,button,dd,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,input,legend,li,ol,p,select,table,td,textarea,th,ul {\n    margin: 0;\n    padding: 0\n}\n\nbody,button,input,select,table,textarea {\n    font-size: 12px;\n    line-height: 16px;\n    color: #202020;\n    font-family: -apple-system,BlinkMacSystemFont,\"Malgun Gothic\",\"맑은 고딕\",helvetica,\"Apple SD Gothic Neo\",sans-serif\n}\n\nh1,h2,h3,h4,h5,h6 {\n    font-size: inherit;\n    line-height: inherit\n}\n\ntextarea {\n    -webkit-backface-visibility: hidden;\n    backface-visibility: hidden;\n    background-color: transparent;\n    border: 0;\n    word-break: keep-all;\n    word-wrap: break-word\n}\n\nbutton,input {\n    -webkit-border-radius: 0;\n    border-radius: 0;\n    border: 0\n}\n\nbutton {\n    background-color: transparent\n}\n\nfieldset,img {\n    border: 0\n}\n\nimg {\n    vertical-align: top\n}\n\nol,ul {\n    list-style: none\n}\n\naddress,em {\n    font-style: normal\n}\n\na {\n    color: inherit;\n    text-decoration: none\n}\n\na:hover {\n    text-decoration: underline\n}\n\niframe {\n    overflow: hidden;\n    margin: 0;\n    border: 0;\n    padding: 0;\n    vertical-align: top\n}\n\nmark {\n    background-color: transparent\n}\n\ni {\n    font-style: normal\n}\n\nhtml[data-dark=true] .shop_wrap .group_plusdeal .thumb_box+.thumb_box:before,html[data-dark=true] .shop_wrap .shop_control .btn_next:before,html[data-dark=true] .shop_wrap .shop_control .btn_prev:before,html[data-dark=true] .shop_wrap .shop_page .btn_next:before,html[data-dark=true] .shop_wrap .shop_page .btn_prev:before {\n    background-image: url(https://s.pstatic.net/static/www/img/uit/sp_dark_shop_92798d.png);\n    -webkit-background-size: 107px 47px;\n    background-size: 107px 47px;\n    background-repeat: no-repeat\n}\n\n.shop_wrap .group_plusdeal .ico_one_alpha,.shop_wrap .group_plusdeal .ico_one_plus,.shop_wrap .group_plusdeal .link_logo:before,.shop_wrap .group_plusdeal .thumb_box+.thumb_box:before,.shop_wrap .group_shop .link_mall:after,.shop_wrap .sale_area:after,.shop_wrap .shop_coach,.shop_wrap .shop_coach.type_solid,.shop_wrap .shop_control .btn_next:before,.shop_wrap .shop_control .btn_next:hover:before,.shop_wrap .shop_control .btn_prev:before,.shop_wrap .shop_control .btn_prev:hover:before,.shop_wrap .shop_error .ico_error,.shop_wrap .shop_header .link_shop .ls_link:after,.shop_wrap .shop_header .link_shop .ls_link:before,.shop_wrap .shop_page .btn_next:before,.shop_wrap .shop_page .btn_next:hover:before,.shop_wrap .shop_page .btn_prev:before,.shop_wrap .shop_page .btn_prev:hover:before {\n    background-image: url(https://s.pstatic.net/static/www/img/uit/sp_shop_a620bd.png);\n    -webkit-background-size: 107px 101px;\n    background-size: 107px 101px;\n    background-repeat: no-repeat\n}\n\n[data-useragent*='MSIE 8'] .shop_wrap .group_plusdeal .ico_one_alpha,[data-useragent*='MSIE 8'] .shop_wrap .group_plusdeal .ico_one_plus,[data-useragent*='MSIE 8'] .shop_wrap .group_plusdeal .link_logo:before,[data-useragent*='MSIE 8'] .shop_wrap .group_plusdeal .thumb_box+.thumb_box:before,[data-useragent*='MSIE 8'] .shop_wrap .group_shop .link_mall:after,[data-useragent*='MSIE 8'] .shop_wrap .sale_area:after,[data-useragent*='MSIE 8'] .shop_wrap .shop_coach,[data-useragent*='MSIE 8'] .shop_wrap .shop_coach.type_solid,[data-useragent*='MSIE 8'] .shop_wrap .shop_control .btn_next:before,[data-useragent*='MSIE 8'] .shop_wrap .shop_control .btn_next:hover:before,[data-useragent*='MSIE 8'] .shop_wrap .shop_control .btn_prev:before,[data-useragent*='MSIE 8'] .shop_wrap .shop_control .btn_prev:hover:before,[data-useragent*='MSIE 8'] .shop_wrap .shop_error .ico_error,[data-useragent*='MSIE 8'] .shop_wrap .shop_header .link_shop .ls_link:after,[data-useragent*='MSIE 8'] .shop_wrap .shop_header .link_shop .ls_link:before,[data-useragent*='MSIE 8'] .shop_wrap .shop_page .btn_next:before,[data-useragent*='MSIE 8'] .shop_wrap .shop_page .btn_next:hover:before,[data-useragent*='MSIE 8'] .shop_wrap .shop_page .btn_prev:before,[data-useragent*='MSIE 8'] .shop_wrap .shop_page .btn_prev:hover:before {\n    background-image: url(https://s.pstatic.net/static/www/img/uit/sp_shop_1x_58a799.png)\n}\n\nhtml[data-dark=true] body {\n    background-color: #1e1f21;\n    color: #d9d9d9\n}\n\nhtml[data-dark=true] .shop_wrap {\n    background-color: #1e1f21\n}\n\nhtml[data-dark=true] .shop_wrap .shop_header .link_shop {\n    color: #fff\n}\n\nhtml[data-dark=true] .shop_wrap .shop_header .shop_tab .tab {\n    color: #d9d9d9\n}\n\nhtml[data-dark=true] .shop_wrap .shop_header .shop_tab .tab[aria-selected=true] {\n    color: #03c75a\n}\n\nhtml[data-dark=true] .shop_wrap .shop_content {\n    border-color: #3a3b3d\n}\n\nhtml[data-dark=true] .shop_wrap .shop_error {\n    border-color: #3a3b3d\n}\n\nhtml[data-dark=true] .shop_wrap .shop_error .error_msg {\n    color: #7a7a7a\n}\n\nhtml[data-dark=true] .shop_wrap .group_mall {\n    background-color: #2c2d30;\n    border-color: #3a3b3d\n}\n\nhtml[data-dark=true] .shop_wrap .group_mall .link_mall {\n    color: #a8a8a8\n}\n\nhtml[data-dark=true] .shop_wrap .group_mall .link_mall>strong {\n    color: #d9d9d9\n}\n\nhtml[data-dark=true] .shop_wrap .group_shop {\n    border-color: #3a3b3d\n}\n\nhtml[data-dark=true] .shop_wrap .group_pnf {\n    border-color: #3a3b3d\n}\n\nhtml[data-dark=true] .shop_wrap .group_plus {\n    border-color: #3a3b3d\n}\n\nhtml[data-dark=true] .shop_wrap .point {\n    color: #00b3ff\n}\n\nhtml[data-dark=true] .shop_wrap .group_price {\n    border-color: #3a3b3d\n}\n\nhtml[data-dark=true] .shop_wrap .group_price .origin {\n    color: #7a7a7a\n}\n\nhtml[data-dark=true] .shop_wrap .group_plusdeal {\n    border-color: #3a3b3d\n}\n\nhtml[data-dark=true] .shop_wrap .group_plusdeal .thumb_box+.thumb_box:before {\n    display: inline-block;\n    width: 20px;\n    height: 20px;\n    background-position: 0 -27px;\n    background-repeat: no-repeat;\n    vertical-align: top\n}\n\nhtml[data-dark=true] .shop_wrap .group_event {\n    border-color: #3a3b3d\n}\n\nhtml[data-dark=true] .shop_wrap .group_event+.group_goods:before {\n    background-color: #3a3b3d\n}\n\nhtml[data-dark=true] .shop_wrap .sale_area {\n    background-color: #2c2d30;\n    border-color: #3a3b3d\n}\n\nhtml[data-dark=true] .shop_wrap .sale_area .desc {\n    color: #7a7a7a\n}\n\nhtml[data-dark=true] .shop_wrap .list_event .event_area {\n    color: #d9d9d9\n}\n\nhtml[data-dark=true] .shop_wrap .list_event .title {\n    color: #fff\n}\n\nhtml[data-dark=true] .shop_wrap .shop_control .btn {\n    background-color: #2c2d30;\n    border-color: #3a3b3d\n}\n\nhtml[data-dark=true] .shop_wrap .shop_control .btn:hover {\n    background-color: #343538\n}\n\nhtml[data-dark=true] .shop_wrap .shop_control .btn_prev:before {\n    display: inline-block;\n    width: 6px;\n    height: 9px;\n    background-position: -30px -27px;\n    background-repeat: no-repeat;\n    vertical-align: top\n}\n\nhtml[data-dark=true] .shop_wrap .shop_control .btn_next:before {\n    display: inline-block;\n    width: 6px;\n    height: 9px;\n    background-position: -22px -27px;\n    background-repeat: no-repeat;\n    vertical-align: top\n}\n\nhtml[data-dark=true] .shop_wrap .shop_control .num_box {\n    color: #7a7a7a\n}\n\nhtml[data-dark=true] .shop_wrap .shop_control .num_box .current {\n    color: #d9d9d9\n}\n\nhtml[data-dark=true] .shop_wrap .shop_page .btn {\n    background-color: #2c2d30;\n    border-color: #3a3b3d\n}\n\nhtml[data-dark=true] .shop_wrap .shop_page .btn:hover {\n    background-color: #343538\n}\n\nhtml[data-dark=true] .shop_wrap .shop_page .btn_prev:before {\n    display: inline-block;\n    width: 6px;\n    height: 9px;\n    background-position: -30px -27px;\n    background-repeat: no-repeat;\n    vertical-align: top\n}\n\nhtml[data-dark=true] .shop_wrap .shop_page .btn_next:before {\n    display: inline-block;\n    width: 6px;\n    height: 9px;\n    background-position: -22px -27px;\n    background-repeat: no-repeat;\n    vertical-align: top\n}\n\nhtml[data-dark=true] .shop_wrap .shop_page .num_box {\n    color: #7a7a7a\n}\n\nhtml[data-dark=true] .shop_wrap .shop_page .num_box .current {\n    color: #d9d9d9\n}\n\n.shop_wrap {\n    overflow: hidden;\n    width: 350px;\n    height: 1809px;\n    background-color: #fff;\n    letter-spacing: -.25px;\n    -webkit-transform: translateZ(0);\n    transform: translateZ(0)\n}\n\n.shop_wrap.type_hidden_plusdeal {\n    height: 1525px\n}\n\n.shop_wrap.type_hidden_plusdeal .shop_content {\n    height: 1479px\n}\n\n.shop_wrap .shop_header {\n    padding: 12px 0 13px;\n    line-height: 17px\n}\n\n.shop_wrap .shop_header:after {\n    content: \"\";\n    display: table;\n    table-layout: fixed;\n    clear: both\n}\n\n.shop_wrap .shop_header .link_shop {\n    float: left;\n    margin: 2px 0 0 1px;\n    font-size: 13px;\n    line-height: 17px;\n    color: #000\n}\n\n.shop_wrap .shop_header .link_shop .ls_link:before {\n    display: inline-block;\n    width: 15px;\n    height: 15px;\n    background-position: -48px -77px;\n    background-repeat: no-repeat;\n    vertical-align: top;\n    content: '';\n    margin-right: 4px;\n    vertical-align: -3px\n}\n\n.shop_wrap .shop_header .link_shop .ls_link:after {\n    display: inline-block;\n    width: 5px;\n    height: 9px;\n    background-position: -65px -77px;\n    background-repeat: no-repeat;\n    vertical-align: top;\n    content: '';\n    margin-left: 7px;\n    vertical-align: 0\n}\n\n.shop_wrap .shop_tab {\n    float: right;\n    font-size: 13px;\n    font-weight: 700\n}\n\n.shop_wrap .shop_tab:after {\n    content: \"\";\n    display: table;\n    table-layout: fixed;\n    clear: both\n}\n\n.shop_wrap .shop_tab .tab_item {\n    float: left\n}\n\n.shop_wrap .shop_tab .tab_item+.tab_item {\n    margin-left: 11px\n}\n\n.shop_wrap .shop_tab .tab {\n    display: block;\n    padding: 0 1px;\n    border-bottom: 2px solid transparent;\n    color: #202020;\n    text-decoration: none\n}\n\n.shop_wrap .shop_tab .tab[aria-selected=true] {\n    border-color: #19ce60;\n    color: #03c75a\n}\n\n.shop_wrap .shop_content {\n    overflow: hidden;\n    height: 1763px;\n    border: 1px solid #e4e8eb\n}\n\n.shop_wrap .shop_error {\n    border-top: 1px solid #e4e8eb;\n    padding-top: 100px;\n    text-align: center\n}\n\n.shop_wrap .shop_error .ico_error {\n    display: inline-block;\n    width: 24px;\n    height: 24px;\n    background-position: 0 -77px;\n    background-repeat: no-repeat;\n    vertical-align: top;\n    display: block;\n    margin: 0 auto\n}\n\n.shop_wrap .shop_error .title {\n    display: block;\n    margin-top: 21px\n}\n\n.shop_wrap .shop_error .error_msg {\n    margin-top: 9px;\n    line-height: 20px;\n    color: grey\n}\n\n.shop_wrap .shop_error .link_redirect {\n    display: inline-block;\n    padding: 7px 15px 5px;\n    margin-top: 20px;\n    background: #1fd771;\n    -webkit-border-radius: 14px;\n    border-radius: 14px;\n    font-size: 11px;\n    color: #fff;\n    vertical-align: top\n}\n\n.shop_wrap .group_mall {\n    overflow: hidden;\n    padding: 12px 4px 11px 10px;\n    background-color: #f7f9fa;\n    border-bottom: 1px solid #dae1e6\n}\n\n.shop_wrap .group_mall.type_new {\n    padding: 12px 9px 11px\n}\n\n.shop_wrap .group_mall.type_new .link_mall {\n    min-width: 35px;\n    text-align: center;\n    font-size: 13px\n}\n\n.shop_wrap .group_mall .link_mall {\n    float: left;\n    line-height: 23px;\n    color: #404040\n}\n\n.shop_wrap .group_mall .link_mall>strong {\n    color: #202020\n}\n\n.shop_wrap .group_mall .mall_area:after {\n    content: \"\";\n    display: table;\n    table-layout: fixed;\n    clear: both\n}\n\n.shop_wrap .group_mall [class^=ls] {\n    background-color: #c9cccf;\n    display: inline-block;\n    width: 3px;\n    height: 3px;\n    -webkit-border-radius: 50%;\n    border-radius: 50%;\n    vertical-align: top;\n    float: left\n}\n\n.shop_wrap .group_mall .ls0 {\n    margin-top: 10px\n}\n\n.shop_wrap .group_mall .ls1 {\n    margin: 10px 1px 0\n}\n\n.shop_wrap .group_mall .ls2 {\n    margin: 10px 2px 0\n}\n\n.shop_wrap .group_mall .ls3 {\n    margin: 10px 3px 0\n}\n\n.shop_wrap .group_mall .ls4 {\n    margin: 10px 4px 0\n}\n\n.shop_wrap .group_mall .ls5 {\n    margin: 10px 5px 0\n}\n\n.shop_wrap .group_mall .ls6 {\n    margin: 10px 6px 0\n}\n\n.shop_wrap .group_mall .ls7 {\n    margin: 10px 7px 0\n}\n\n.shop_wrap .group_mall .ls8 {\n    margin: 10px 8px 0\n}\n\n.shop_wrap .group_mall .ls9 {\n    margin: 10px 9px 0\n}\n\n.shop_wrap .group_mall .ls10 {\n    margin: 10px 10px 0\n}\n\n.shop_wrap .group_mall .ls11 {\n    margin: 10px 11px 0\n}\n\n.shop_wrap .group_mall .ls12 {\n    margin: 10px 12px 0\n}\n\n.shop_wrap .group_mall .ls13 {\n    margin: 10px 13px 0\n}\n\n.shop_wrap .group_mall .ls14 {\n    margin: 10px 14px 0\n}\n\n.shop_wrap .group_mall .ls15 {\n    margin: 10px 15px 0\n}\n\n.shop_wrap .group_mall .ls16 {\n    margin: 10px 16px 0\n}\n\n.shop_wrap .group_mall .ls17 {\n    margin: 10px 17px 0\n}\n\n.shop_wrap .group_mall .ls18 {\n    margin: 10px 18px 0\n}\n\n.shop_wrap .group_mall .ls19 {\n    margin: 10px 19px 0\n}\n\n.shop_wrap .group_mall .ls20 {\n    margin: 10px 20px 0\n}\n\n.shop_wrap .group_mall .ls21 {\n    margin: 10px 21px 0\n}\n\n.shop_wrap .group_goods {\n    position: relative;\n    padding: 55px 8px 20px\n}\n\n.shop_wrap .group_goods .shop_control {\n    top: 13px;\n    right: 8px\n}\n\n.shop_wrap .group_goods .list_goods_wrap .list_goods {\n    margin-top: -10px\n}\n\n.shop_wrap .group_goods .list_goods_wrap .goods_item {\n    margin-top: 10px\n}\n\n.shop_wrap .group_goods .list_goods_wrap .title_box {\n    margin-top: 5px\n}\n\n.shop_wrap .group_goods .shop_page {\n    margin-top: 18px\n}\n\n.shop_wrap .group_goods.type_men .shop_category {\n    left: 14px\n}\n\n.shop_wrap .group_goods.type_men .shop_page {\n    margin-top: 23px\n}\n\n.shop_wrap .group_goods.type_men .title_box {\n    margin-top: 10px\n}\n\n.shop_wrap .group_goods.type_men .list_goods {\n    margin-top: -21px\n}\n\n.shop_wrap .group_goods.type_men .goods_item {\n    margin-top: 20px\n}\n\n.shop_wrap .group_goods.type_men .title {\n    line-height: 19px\n}\n\n.shop_wrap .group_goods.type_men .title:first-child {\n    line-height: 16px\n}\n\n.shop_wrap .group_shop {\n    padding: 21px 0 14px;\n    margin: 0 8px;\n    border-top: 1px solid #e4e8eb\n}\n\n.shop_wrap .group_shop .shop_title {\n    position: relative;\n    padding-left: 5px\n}\n\n.shop_wrap .group_shop .shop_title~.shop_title {\n    padding-top: 8px\n}\n\n.shop_wrap .group_shop .link_mall {\n    display: inline-block;\n    vertical-align: top;\n    font-size: 13px;\n    line-height: 17px;\n    font-weight: 700\n}\n\n.shop_wrap .group_shop .link_mall:after {\n    display: inline-block;\n    width: 5px;\n    height: 9px;\n    background-position: -65px -77px;\n    background-repeat: no-repeat;\n    vertical-align: top;\n    content: '';\n    margin-left: 7px;\n    vertical-align: 0\n}\n\n.shop_wrap .group_shop .list_goods_wrap {\n    padding: 17px 0 21px\n}\n\n.shop_wrap .group_shop .list_goods_wrap .title_box {\n    margin-top: 10px\n}\n\n.shop_wrap .group_shop .list_goods_wrap .title_box .title+.title {\n    margin-top: 2px\n}\n\n.shop_wrap .group_trend {\n    padding: 12px 8px 31px\n}\n\n.shop_wrap .group_trend .shop_title {\n    position: relative;\n    height: 29px\n}\n\n.shop_wrap .group_trend .shop_control {\n    top: 0\n}\n\n.shop_wrap .group_trend .link_mall {\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n    max-width: 180px;\n    display: inline-block;\n    vertical-align: top;\n    line-height: 29px;\n    font-size: 14px;\n    font-weight: 700;\n    margin-left: 3px\n}\n\n.shop_wrap .group_trend .link_mall_logo {\n    display: inline-block;\n    vertical-align: top;\n    padding: 5px 0 5px 3px\n}\n\n.shop_wrap .group_trend .link_mall_logo .logo_img {\n    max-width: 180px\n}\n\n@media screen and (-webkit-min-device-pixel-ratio: 0) and (min-resolution:0.001dpcm) {\n    .shop_wrap .group_trend .link_mall_logo .logo_img {\n        image-rendering:-webkit-optimize-contrast\n    }\n}\n\n.shop_wrap .group_trend .list_goods_wrap {\n    padding-top: 14px\n}\n\n.shop_wrap .group_trend .list_goods .goods_item {\n    margin-top: 21px\n}\n\n.shop_wrap .group_trend .list_goods .goods_item.type_grid {\n    margin: 7px 0 4px\n}\n\n.shop_wrap .group_trend .list_goods .goods_item.type_grid:first-child {\n    width: 66.66%\n}\n\n.shop_wrap .group_trend .list_goods .goods_item.type_grid+.goods_item:not(.type_grid) {\n    clear: both\n}\n\n.shop_wrap .group_trend .list_goods .goods_item.type_big {\n    margin-top: 0;\n    width: 50%\n}\n\n.shop_wrap .group_trend .title_box {\n    margin-top: 10px\n}\n\n.shop_wrap .group_trend .title_box .title+.title {\n    margin-top: 2px\n}\n\n.shop_wrap .group_trend .shop_page {\n    margin-top: 31px\n}\n\n.shop_wrap .group_pnf {\n    padding: 18px 0 23px;\n    margin: 0 8px;\n    border-top: 1px solid #e4e8eb\n}\n\n.shop_wrap .group_pnf .shop_title {\n    position: relative;\n    padding-left: 4px\n}\n\n.shop_wrap .group_pnf .shop_title .title {\n    font-size: 13px\n}\n\n.shop_wrap .group_pnf .shop_control {\n    top: -6px\n}\n\n.shop_wrap .group_pnf .shop_control .num_box {\n    line-height: 26px\n}\n\n.shop_wrap .group_pnf .shop_control .btn_prev:before {\n    margin: 8px 10px 7px 9px\n}\n\n.shop_wrap .group_pnf .shop_control .btn_next:before {\n    margin: 8px 9px 7px 10px\n}\n\n.shop_wrap .group_plus {\n    position: relative;\n    padding: 55px 0 19px;\n    margin: 0 8px;\n    border-top: 1px solid #e4e8eb\n}\n\n.shop_wrap .group_plus .shop_control {\n    top: 14px\n}\n\n.shop_wrap .group_plus .list_goods_wrap .goods_item {\n    width: 50%\n}\n\n.shop_wrap .group_plus .rental_badge {\n    position: absolute;\n    top: 5px;\n    left: 5px\n}\n\n.shop_wrap .group_plus .title_box {\n    margin-top: 9px\n}\n\n.shop_wrap .group_event {\n    margin: 0 8px;\n    padding: 19px 0 17px;\n    border-top: 1px solid #e4e8eb\n}\n\n.shop_wrap .group_event+.group_goods {\n    padding-bottom: 31px\n}\n\n.shop_wrap .group_event+.group_goods:before {\n    position: absolute;\n    top: 0;\n    right: 8px;\n    left: 8px;\n    content: '';\n    height: 1px;\n    background-color: #e4e8eb\n}\n\n.shop_wrap .group_event+.group_goods .shop_control {\n    top: 12px\n}\n\n.shop_wrap .group_event .shop_control {\n    top: -6px\n}\n\n.shop_wrap .group_event .shop_title {\n    position: relative;\n    padding-left: 5px\n}\n\n.shop_wrap .group_event .shop_title .title {\n    font-size: 13px\n}\n\n.shop_wrap .sale_area {\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n    display: block;\n    position: relative;\n    padding: 11px 25px 11px 14px;\n    margin-top: 21px;\n    background-color: #f4f7f9;\n    border: 1px solid #e4e8eb;\n    -webkit-border-radius: 3px;\n    border-radius: 3px\n}\n\n.shop_wrap .sale_area+.shop_page {\n    margin-top: 23px\n}\n\n.shop_wrap .sale_area:after {\n    position: absolute;\n    top: 15px;\n    right: 17px;\n    display: inline-block;\n    width: 5px;\n    height: 9px;\n    background-position: -65px -77px;\n    background-repeat: no-repeat;\n    vertical-align: top;\n    content: ''\n}\n\n.shop_wrap .sale_area .title {\n    float: left;\n    font-size: 13px;\n    color: #f55;\n    font-weight: 700\n}\n\n.shop_wrap .sale_area .title+.desc {\n    padding-left: 13px;\n    position: relative\n}\n\n.shop_wrap .sale_area .title+.desc:before {\n    content: \"\";\n    display: block;\n    position: absolute;\n    top: 4px;\n    left: 6px;\n    width: 1px;\n    height: 9px;\n    background-color: #d8d8d8\n}\n\n.shop_wrap .sale_area .desc {\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n    color: grey\n}\n\n.shop_wrap .list_goods_wrap {\n    overflow: hidden\n}\n\n.shop_wrap .list_goods_wrap .list_goods {\n    overflow: hidden;\n    margin-right: -5px\n}\n\n.shop_wrap .list_goods_wrap .goods_item {\n    float: left;\n    width: 33.33%\n}\n\n.shop_wrap .list_goods_wrap .goods_area {\n    display: block;\n    margin-right: 5px\n}\n\n.shop_wrap .list_goods_wrap .goods_area:hover img {\n    -webkit-transition-duration: .3s;\n    transition-duration: .3s;\n    -webkit-transform: scale(1.05);\n    transform: scale(1.05)\n}\n\n.shop_wrap .list_goods_wrap .goods_area img {\n    -webkit-transition: -webkit-transform .2s cubic-bezier(.165,.84,.44,1);\n    transition: -webkit-transform .2s cubic-bezier(.165,.84,.44,1);\n    transition: transform .2s cubic-bezier(.165,.84,.44,1);\n    transition: transform .2s cubic-bezier(.165,.84,.44,1),-webkit-transform .2s cubic-bezier(.165,.84,.44,1);\n    image-rendering: -webkit-optimize-contrast\n}\n\n.shop_wrap .list_goods_wrap .goods_area:focus .thumb_info,.shop_wrap .list_goods_wrap .goods_area:hover .thumb_info {\n    display: block\n}\n\n.shop_wrap .list_goods_wrap .thumb_box {\n    overflow: hidden;\n    position: relative\n}\n\n.shop_wrap .list_goods_wrap .thumb_box>img {\n    -webkit-transform: translateZ(0);\n    transform: translateZ(0)\n}\n\n.shop_wrap .list_goods_wrap .thumb_info {\n    position: absolute;\n    top: 0;\n    left: 0;\n    right: 0;\n    bottom: 0;\n    display: none;\n    color: #fff;\n    font-size: 11px;\n    line-height: 18px;\n    font-weight: 500;\n    letter-spacing: -.5px;\n    background-image: -webkit-gradient(linear,left bottom,left top,from(rgba(0,0,0,.3)),color-stop(34.24%,rgba(0,0,0,0)));\n    background-image: -webkit-linear-gradient(bottom,rgba(0,0,0,.3),rgba(0,0,0,0) 34.24%);\n    background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,0) 34.24%);\n    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#20000000, endColorstr=#20000000)\n}\n\n.shop_wrap .list_goods_wrap .badge_box {\n    position: absolute;\n    right: 0;\n    bottom: 0;\n    left: 0;\n    padding: 0 5px 5px\n}\n\n.shop_wrap .list_goods_wrap .goods_badge {\n    position: relative;\n    display: inline-block;\n    vertical-align: top;\n    height: 18px;\n    padding: 0 4px;\n    margin-right: 4px;\n    font-weight: 600;\n    -webkit-border-radius: 4px;\n    border-radius: 4px;\n    background-color: #00a64a\n}\n\n.shop_wrap .list_goods_wrap .goods_badge:before {\n    position: absolute;\n    top: 0;\n    left: 0;\n    right: 0;\n    bottom: 0;\n    content: '';\n    -webkit-border-radius: inherit;\n    border-radius: inherit;\n    border: 1px solid #009935\n}\n\n.shop_wrap .list_goods_wrap .thumb_bd {\n    position: absolute;\n    top: 0;\n    left: 0;\n    right: 0;\n    bottom: 0;\n    opacity: .08;\n    filter: alpha(opacity=8);\n    border: 1px solid #000\n}\n\n.shop_wrap .list_goods_wrap .title {\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n    display: block;\n    line-height: 16px;\n    text-align: center\n}\n\n.shop_wrap .list_goods_wrap .title:first-child {\n    font-weight: 700\n}\n\n.shop_wrap .point {\n    color: #0055e0\n}\n\n.shop_wrap .group_price {\n    padding: 17px 0 22px;\n    margin: 0 8px;\n    border-top: 1px solid #e4e8eb\n}\n\n.shop_wrap .group_price .shop_title {\n    position: relative;\n    padding-left: 4px\n}\n\n.shop_wrap .group_price .shop_title .title {\n    font-size: 13px\n}\n\n.shop_wrap .group_price .shop_control {\n    top: -4px\n}\n\n.shop_wrap .group_price .shop_control .num_box {\n    line-height: 26px\n}\n\n.shop_wrap .group_price .shop_control .btn_prev:before {\n    margin: 8px 10px 7px 9px\n}\n\n.shop_wrap .group_price .shop_control .btn_next:before {\n    margin: 8px 9px 7px 10px\n}\n\n.shop_wrap .group_price .list_goods_wrap {\n    margin-top: 20px\n}\n\n.shop_wrap .group_price .list_goods_wrap .goods_item {\n    width: 50%\n}\n\n.shop_wrap .group_price .title_box {\n    margin: 9px 0 0 5px\n}\n\n.shop_wrap .group_price .title_box .title {\n    font-weight: 400;\n    text-align: left\n}\n\n.shop_wrap .group_price .price_wrap {\n    margin-top: 2px;\n    height: 18px;\n    font-size: 0;\n    line-height: 0;\n    font-weight: 700;\n    letter-spacing: -.5px\n}\n\n.shop_wrap .group_price .discount {\n    display: inline-block;\n    vertical-align: top;\n    font-size: 13px;\n    line-height: 18px;\n    letter-spacing: -1px;\n    margin-right: 5px;\n    color: #f20c32\n}\n\n.shop_wrap .group_price .origin {\n    display: inline-block;\n    margin-left: 4px;\n    font-size: 12px;\n    line-height: 18px;\n    color: grey;\n    vertical-align: top\n}\n\n.shop_wrap .group_price .price {\n    display: inline-block;\n    vertical-align: top;\n    font-size: 13px;\n    line-height: 18px\n}\n\n.shop_wrap .group_plusdeal {\n    padding-top: 16px;\n    margin: 0 8px;\n    border-top: 1px solid #e4e8eb\n}\n\n.shop_wrap .group_plusdeal .shop_title {\n    position: relative\n}\n\n.shop_wrap .group_plusdeal .shop_title .title {\n    font-size: 13px;\n    font-weight: 500;\n    line-height: 21px\n}\n\n.shop_wrap .group_plusdeal .link_logo {\n    display: inline-block;\n    vertical-align: top\n}\n\n.shop_wrap .group_plusdeal .link_logo:before {\n    display: inline-block;\n    width: 40px;\n    height: 21px;\n    background-position: 0 -54px;\n    background-repeat: no-repeat;\n    vertical-align: top;\n    content: '';\n    margin-right: 7px\n}\n\n.shop_wrap .group_plusdeal .shop_control {\n    top: -3px\n}\n\n.shop_wrap .group_plusdeal .list_deal {\n    margin-top: 20px\n}\n\n.shop_wrap .group_plusdeal .deal_item {\n    display: block\n}\n\n.shop_wrap .group_plusdeal .deal_item+.deal_item {\n    margin-top: 15px\n}\n\n.shop_wrap .group_plusdeal .deal_area {\n    display: block;\n    overflow: hidden\n}\n\n.shop_wrap .group_plusdeal .deal_thumb {\n    float: left;\n    margin-right: 10px\n}\n\n.shop_wrap .group_plusdeal .ico_one_plus {\n    position: absolute;\n    top: 0;\n    left: 0;\n    display: inline-block;\n    width: 30px;\n    height: 15px;\n    background-position: -42px -54px;\n    background-repeat: no-repeat;\n    vertical-align: top\n}\n\n.shop_wrap .group_plusdeal .ico_one_alpha {\n    position: absolute;\n    top: 0;\n    left: 0;\n    display: inline-block;\n    width: 30px;\n    height: 15px;\n    background-position: -74px -54px;\n    background-repeat: no-repeat;\n    vertical-align: top\n}\n\n.shop_wrap .group_plusdeal .thumb_box {\n    position: relative;\n    float: left;\n    -webkit-border-radius: 4px;\n    border-radius: 4px\n}\n\n.shop_wrap .group_plusdeal .thumb_box>img {\n    -webkit-border-radius: inherit;\n    border-radius: inherit\n}\n\n.shop_wrap .group_plusdeal .thumb_box:first-child {\n    overflow: hidden\n}\n\n.shop_wrap .group_plusdeal .thumb_box+.thumb_box {\n    margin-left: 10px\n}\n\n.shop_wrap .group_plusdeal .thumb_box+.thumb_box:before {\n    position: absolute;\n    top: 20px;\n    left: -15px;\n    display: inline-block;\n    width: 20px;\n    height: 20px;\n    background-position: -26px -77px;\n    background-repeat: no-repeat;\n    vertical-align: top;\n    content: '';\n    z-index: 1\n}\n\n.shop_wrap .group_plusdeal .thumb_bd {\n    position: absolute;\n    top: 0;\n    left: 0;\n    right: 0;\n    bottom: 0;\n    opacity: .08;\n    filter: alpha(opacity=8);\n    border: 1px solid #000;\n    -webkit-border-radius: inherit;\n    border-radius: inherit\n}\n\n.shop_wrap .group_plusdeal .title_box {\n    overflow: hidden\n}\n\n.shop_wrap .group_plusdeal .title_box .title {\n    display: block;\n    display: -webkit-box;\n    overflow: hidden;\n    max-height: 34px;\n    line-height: 17px;\n    text-overflow: ellipsis;\n    -webkit-line-clamp: 2;\n    -webkit-box-orient: vertical;\n    font-weight: 500\n}\n\n.shop_wrap .group_plusdeal .price_wrap {\n    margin-top: 5px;\n    font-weight: 700\n}\n\n.shop_wrap .group_plusdeal .price_wrap .discount {\n    color: #f04045\n}\n\n.shop_wrap .group_plusdeal .link_banner {\n    display: block;\n    margin: 15px 1px 0;\n    -webkit-border-radius: 8px;\n    border-radius: 8px;\n    overflow: hidden\n}\n\n.shop_wrap .list_event {\n    margin: 13px 5px 0;\n    line-height: 28px\n}\n\n.shop_wrap .list_event .event_area {\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n    display: block;\n    color: #202020\n}\n\n.shop_wrap .list_event .event_area.type_rental:before {\n    background-color: #208cd8\n}\n\n.shop_wrap .list_event .event_area:before {\n    background-color: #1ace61;\n    display: inline-block;\n    width: 4px;\n    height: 4px;\n    -webkit-border-radius: 50%;\n    border-radius: 50%;\n    vertical-align: top;\n    content: '';\n    margin-right: 8px;\n    vertical-align: 2px\n}\n\n.shop_wrap .list_event .title {\n    margin-right: 13px;\n    color: #000;\n    font-weight: 700\n}\n\n.shop_wrap .list_doc {\n    margin-top: 15px\n}\n\n.shop_wrap .list_doc .doc_item+.doc_item {\n    margin-top: 15px\n}\n\n.shop_wrap .list_doc .doc_area {\n    overflow: hidden;\n    display: block\n}\n\n.shop_wrap .list_doc .doc_area:hover img {\n    -webkit-transition-duration: .3s;\n    transition-duration: .3s;\n    -webkit-transform: scale(1.05);\n    transform: scale(1.05)\n}\n\n.shop_wrap .list_doc .doc_area img {\n    -webkit-transition: -webkit-transform .2s cubic-bezier(.165,.84,.44,1);\n    transition: -webkit-transform .2s cubic-bezier(.165,.84,.44,1);\n    transition: transform .2s cubic-bezier(.165,.84,.44,1);\n    transition: transform .2s cubic-bezier(.165,.84,.44,1),-webkit-transform .2s cubic-bezier(.165,.84,.44,1);\n    image-rendering: -webkit-optimize-contrast\n}\n\n.shop_wrap .list_doc .thumb_box {\n    overflow: hidden;\n    float: left;\n    position: relative;\n    margin-right: 16px\n}\n\n.shop_wrap .list_doc .thumb_bd {\n    position: absolute;\n    top: 0;\n    left: 0;\n    right: 0;\n    bottom: 0;\n    opacity: .08;\n    filter: alpha(opacity=8);\n    border: 1px solid #000\n}\n\n.shop_wrap .list_doc .info_box {\n    overflow: hidden;\n    margin-top: 7px\n}\n\n.shop_wrap .list_doc .title {\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n    display: block;\n    font-size: 13px;\n    line-height: 18px;\n    padding-left: 1px\n}\n\n.shop_wrap .list_doc .dsc_box {\n    margin-top: 11px\n}\n\n.shop_wrap .list_doc .dsc {\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n    display: block;\n    line-height: 18px\n}\n\n.shop_wrap .list_doc .dsc:first-child {\n    font-weight: 700\n}\n\n.shop_wrap .shop_coach {\n    position: absolute;\n    top: -10px;\n    left: 8px;\n    display: inline-block;\n    width: 107px;\n    height: 25px;\n    background-position: 0 -27px;\n    background-repeat: no-repeat;\n    vertical-align: top;\n    overflow: hidden;\n    white-space: nowrap;\n    color: transparent\n}\n\n.shop_wrap .shop_coach.type_solid {\n    display: inline-block;\n    width: 107px;\n    height: 25px;\n    background-position: 0 0;\n    background-repeat: no-repeat;\n    vertical-align: top\n}\n\n.shop_wrap .shop_category {\n    position: absolute;\n    top: 20px;\n    left: 5px;\n    font-size: 0;\n    line-height: 0\n}\n\n.shop_wrap .shop_category .category {\n    display: inline-block;\n    vertical-align: 0;\n    font-size: 13px;\n    line-height: 17px;\n    font-weight: 500;\n    letter-spacing: -.5px;\n    border-bottom: 2px solid transparent;\n    text-decoration: none\n}\n\n.shop_wrap .shop_category .category+.category {\n    margin-left: 12px\n}\n\n.shop_wrap .shop_category .category[aria-selected=true] {\n    color: #03c75a;\n    font-weight: 700;\n    border-color: #19ce60\n}\n\n.shop_wrap .shop_control {\n    position: absolute;\n    top: -8px;\n    right: 0;\n    text-align: right\n}\n\n.shop_wrap .shop_control:after {\n    content: \"\";\n    display: table;\n    table-layout: fixed;\n    clear: both\n}\n\n.shop_wrap .shop_control .btn_box {\n    overflow: hidden;\n    float: left;\n    margin-left: 7px\n}\n\n.shop_wrap .shop_control .btn_box:after {\n    content: \"\";\n    display: table;\n    table-layout: fixed;\n    clear: both\n}\n\n.shop_wrap .shop_control .btn {\n    float: left;\n    background-color: #fff;\n    border: 1px solid #dae1e6\n}\n\n.shop_wrap .shop_control .btn+.btn {\n    margin-left: -1px\n}\n\n.shop_wrap .shop_control .btn:hover {\n    background-color: #fafbfc;\n    text-decoration: none\n}\n\n.shop_wrap .shop_control .btn_prev:before {\n    display: inline-block;\n    width: 5px;\n    height: 9px;\n    background-position: -93px -77px;\n    background-repeat: no-repeat;\n    vertical-align: top;\n    content: '';\n    margin: 9px 12px 9px 10px\n}\n\n.shop_wrap .shop_control .btn_prev:hover:before {\n    display: inline-block;\n    width: 5px;\n    height: 9px;\n    background-position: -86px -77px;\n    background-repeat: no-repeat;\n    vertical-align: top\n}\n\n.shop_wrap .shop_control .btn_next:before {\n    display: inline-block;\n    width: 5px;\n    height: 9px;\n    background-position: -79px -77px;\n    background-repeat: no-repeat;\n    vertical-align: top;\n    content: '';\n    margin: 9px 10px 9px 12px\n}\n\n.shop_wrap .shop_control .btn_next:hover:before {\n    display: inline-block;\n    width: 5px;\n    height: 9px;\n    background-position: -72px -77px;\n    background-repeat: no-repeat;\n    vertical-align: top\n}\n\n.shop_wrap .shop_control .num_box {\n    float: left;\n    line-height: 29px;\n    color: grey\n}\n\n.shop_wrap .shop_control .num_box .current {\n    margin-right: 4px;\n    color: #202020;\n    font-weight: 700\n}\n\n.shop_wrap .shop_page {\n    margin-top: 21px;\n    text-align: center\n}\n\n.shop_wrap .shop_page .btn {\n    display: inline-block;\n    background-color: #fff;\n    border: 1px solid #dae1e6;\n    vertical-align: top\n}\n\n.shop_wrap .shop_page .btn:hover {\n    background-color: #fafbfc;\n    text-decoration: none\n}\n\n.shop_wrap .shop_page .btn_prev:before {\n    display: inline-block;\n    width: 5px;\n    height: 9px;\n    background-position: -93px -77px;\n    background-repeat: no-repeat;\n    vertical-align: top;\n    content: '';\n    margin: 9px 12px 9px 10px\n}\n\n.shop_wrap .shop_page .btn_prev:hover:before {\n    display: inline-block;\n    width: 5px;\n    height: 9px;\n    background-position: -86px -77px;\n    background-repeat: no-repeat;\n    vertical-align: top\n}\n\n.shop_wrap .shop_page .btn_next:before {\n    display: inline-block;\n    width: 5px;\n    height: 9px;\n    background-position: -79px -77px;\n    background-repeat: no-repeat;\n    vertical-align: top;\n    content: '';\n    margin: 9px 10px 9px 12px\n}\n\n.shop_wrap .shop_page .btn_next:hover:before {\n    display: inline-block;\n    width: 5px;\n    height: 9px;\n    background-position: -72px -77px;\n    background-repeat: no-repeat;\n    vertical-align: top\n}\n\n.shop_wrap .shop_page .num_box {\n    display: inline-block;\n    min-width: 61px;\n    line-height: 29px;\n    color: grey;\n    text-align: center;\n    vertical-align: top\n}\n\n.shop_wrap .shop_page .num_box .current {\n    margin-right: 4px;\n    color: #202020;\n    font-weight: 700\n}\n\n.shop_wrap .shop_tag {\n    margin-left: -5px;\n    overflow: hidden;\n    margin-top: 15px;\n    height: 35px\n}\n\n.shop_wrap .shop_tag:after {\n    content: \"\";\n    display: table;\n    table-layout: fixed;\n    clear: both\n}\n\n.shop_wrap .shop_tag .shop_tag_a {\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n    float: left;\n    max-width: 220px;\n    padding: 0 7px;\n    margin-left: 5px;\n    letter-spacing: -.5px;\n    color: #fff;\n    font-size: 11px;\n    line-height: 35px;\n    font-weight: 600;\n    -webkit-border-radius: 5px;\n    border-radius: 5px;\n    background-color: #afd3fa\n}\n\n.shop_wrap .shop_tag .shop_tag_a.tag_color1 {\n    background-color: #afd3fa\n}\n\n.shop_wrap .shop_tag .shop_tag_a.tag_color2 {\n    background-color: #b7c2ff\n}\n\n.shop_wrap .shop_tag .shop_tag_a.tag_color3 {\n    background-color: #b7b7ff\n}\n\n.shop_wrap .shop_tag .shop_tag_a.tag_color4 {\n    background-color: #c6b8ff\n}\n\n.shop_wrap .shop_tag .shop_tag_a.tag_color5 {\n    background-color: #d0acff\n}\n\n.shop_wrap .shop_tag .shop_tag_a.tag_color6 {\n    background-color: #dfaaff\n}\n\n.shop_wrap .shop_tag .shop_tag_a.tag_color7 {\n    background-color: #f3a6ff\n}\n\n.shop_wrap .rental_badge {\n    position: relative;\n    display: inline-block;\n    vertical-align: 0;\n    height: 17px;\n    line-height: 15px;\n    font-size: 11px;\n    padding: 1px 4px;\n    margin-right: 4px;\n    font-weight: 500;\n    color: #fff;\n    -webkit-border-radius: 2px;\n    border-radius: 2px;\n    background-color: #208cd8\n}\n\n.shop_wrap .rental_badge:before {\n    position: absolute;\n    top: 0;\n    left: 0;\n    right: 0;\n    bottom: 0;\n    content: '';\n    -webkit-border-radius: inherit;\n    border-radius: inherit;\n    border: 1px solid #1c7dc1\n}\n\n/*!\n/* a0512260522 */\n",
+					"redo_stack":
+					[
+						[
+							30,
+							1,
+							"wrap_lines",
+							null,
+							"BAAAAKgbAAAAAAAAqBsAAAAAAAABAAAACqgbAAAAAAAAqRsAAAAAAAAAAAAAxBsAAAAAAADFGwAAAAAAAAEAAAAgqhsAAAAAAACvGwAAAAAAAAEAAAAg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADAGwAAAAAAAMAbAAAAAAAAAAAAAAAA8L8"
+						]
+					],
+					"settings":
+					{
+						"buffer_size": 35801,
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "\n\n\n\n#fff"
+							},
+							"CAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							2,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAAgAAAAAAAAACQAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "#"
+							},
+							"AQAAAAkAAAAAAAAACgAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": "white"
+							},
+							"BQAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAA8AAAAAAAAAEAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							23,
+							1,
+							"paste",
+							null,
+							"AgAAAAAAAAAAAAAA2YsAAAAAAAAAAAAA2YsAAAAAAADZiwAAAAAAABAAAAAKCgoKI2ZmZgojd2hpdGUK",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"contents": "b32EMveh9)A=+XgN\n",
+					"settings":
+					{
+						"buffer_size": 17,
+						"line_ending": "Windows",
+						"name": "b32EMveh9)A=+XgN"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"paste",
+							null,
+							"AQAAAAAAAAAAAAAAEQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pcip",
+						"Package Control: Install Package"
+					],
+					[
+						"pcrp",
+						"Package Control: Remove Package"
+					],
+					[
+						"pclp",
+						"Package Control: List Packages"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"livereload",
+						"LiveReload: Enable/disable plug-ins"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Projects/zionex.com/project-ls-docs-2022",
+				"/C/Projects/zionex.com/project-ls-docs-2022/Text"
+			],
+			"file_history":
+			[
+				"/C/Users/kiros33/Downloads/MSOffice2019Pro/1.down.bat"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Command"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "Text/ServerInfo.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 80,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										80,
+										80
+									]
+								],
+								"settings":
+								{
+									"auto_name": "# Title",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"parser": "github",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+									"target": "disk"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3949,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2215,
+										2215
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"default_dir": "C:\\Projects\\zionex.com\\project-ls-docs-2022\\Text",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"tab_width": 2,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 534.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 35801,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7107,
+										7107
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												7113,
+												7114
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												7081,
+												7082
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"default_dir": "C:\\Projects\\zionex.com\\project-ls-docs-2022\\Text",
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4507.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										17,
+										17
+									]
+								],
+								"settings":
+								{
+									"auto_name": "b32EMveh9)A=+XgN",
+									"bracket_highlighter.busy": false,
+									"default_dir": "C:\\Users\\kiros33\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,952,62,62,1272,114f7cb616cd65409f496d0e01e0fdd7",
+			"project": "Default.sublime-project",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": "/C/Projects/zionex.com/project-ls-docs-2022/Default.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Projects/zionex.com/project-ls-docs-2022/Default.sublime-workspace"
+		]
+	}
+}
