@@ -29,6 +29,8 @@
             <Item>*\~$*.docx</Item>
             <Item>*\#02.21.투입계획\</Item>
             <Item>*\#02.22.현업자료\</Item>
+            <Item>\Local\</Item>
+            <Item>\Log\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
