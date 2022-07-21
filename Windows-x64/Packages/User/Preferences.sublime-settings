@@ -8,4 +8,7 @@
 		"ActionScript",
 		"Vintage",
 	],
+	"show_encoding": true,
+	"draw_white_space": ["selection"],
+	"autocomplete": true,
 }
