@@ -1,0 +1,14 @@
+{
+	"working_dir": "${project_path:${folder}}",
+	"name": "LS SCM_DEV",
+	"cmd": [
+				"sqlcmd", 
+				"-S", "scm_dev.ls-electric.com", 
+				"-d", "dynascm",
+				"-U", "sa", 
+				"-P", "lsis@1092",
+				"-i", "$file"
+			],
+	"word_wrap": "false"
+}
+
