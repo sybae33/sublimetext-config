@@ -32,22 +32,74 @@
 			{
 				"args":
 				{
-					"text": "11 2 4"
+					"text": "11 2 4",
 				},
 				"command": "text_pastry_step",
-				"text": "11 2 4"
+				"text": "11 2 4",
 			},
 			"key": "4f0a0b98594df0e7a2f6055fc3c61a4e",
-			"label": "11 2 4"
+			"label": "11 2 4",
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "9 1 1",
+				},
+				"command": "text_pastry_step",
+				"text": "9 1 1",
+			},
+			"key": "2f26f15c694e02a3d43934c48bd86ffe",
+			"label": "9 1 1",
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "9 1 2",
+				},
+				"command": "text_pastry_step",
+				"text": "9 1 2",
+			},
+			"key": "b3fcf165b0f0708244219ff37d0b555c",
+			"label": "9 1 2",
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "2 1 2",
+				},
+				"command": "text_pastry_step",
+				"text": "2 1 2",
+			},
+			"key": "fc06dc8ba418d62090bae36d8fa0c223",
+			"label": "2 1 2",
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "27 1 2"
+				},
+				"command": "text_pastry_step",
+				"text": "27 1 2"
+			},
+			"key": "3e5b6023aaeea3e20d3872c158e73b38",
+			"label": "27 1 2"
 		},
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "11 2 4",
+			"text": "27 1 2",
 		},
 		"command": "text_pastry_step",
-		"text": "11 2 4",
+		"text": "27 1 2",
 	},
 }
