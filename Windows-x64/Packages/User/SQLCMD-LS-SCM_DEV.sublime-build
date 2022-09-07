@@ -8,6 +8,7 @@
 				"-P", "lsis@1092",
 				"-i", "$file"
 			],
-	"word_wrap": "false"
+	"word_wrap": "false",
+    "encoding": "CP949"
 }
 
