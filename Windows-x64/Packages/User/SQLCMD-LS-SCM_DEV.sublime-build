@@ -1,6 +1,5 @@
 {
 	"working_dir": "${project_path:${folder}}",
-	"name": "LS SCM_DEV",
 	"cmd": [
 				"sqlcmd", 
 				"-S", "scm_dev.ls-electric.com", 
