@@ -20,13 +20,16 @@
             <Item>\$Recycle.Bin\</Item>
             <Item>\RECYCLE?\</Item>
             <Item>*\thumbs.db</Item>
+            <Item>*\~$*.pptx</Item>
+            <Item>*\~$*.xlsx</Item>
+            <Item>*\~$*.xlsm</Item>
+            <Item>*\~$*.docx</Item>
+            <Item>*\~$*.doc</Item>
+            <Item>*.ffs_tmp</Item>
             <Item>*\#01.60.인력프로필\</Item>
             <Item>*\#02.20.투입계획\</Item>
             <Item>*\#99.01.참고자료\</Item>
             <Item>*\99.AS-IS 참고자료\</Item>
-            <Item>*\~$*.pptx</Item>
-            <Item>*\~$*.xlsx</Item>
-            <Item>*\~$*.docx</Item>
             <Item>*\#02.21.투입계획\</Item>
             <Item>*\#02.22.현업자료\</Item>
             <Item>\Local\</Item>
