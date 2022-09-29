@@ -97,13 +97,13 @@
 			{
 				"args":
 				{
-					"text": "1 1 2"
+					"text": "1 1 2",
 				},
 				"command": "text_pastry_step",
-				"text": "1 1 2"
+				"text": "1 1 2",
 			},
 			"key": "bed4ce69bb178ee0474acea7c3188868",
-			"label": "1 1 2"
+			"label": "1 1 2",
 		},
 	],
 	"last_command":
