@@ -50,6 +50,191 @@
     "rules":
     [
         {
+            "foreground": "#B2B2B2FF",
+            "scope": "col_20151222",
+            "background": "#20151222"
+        },
+        {
+            "foreground": "#B0B0B0FF",
+            "scope": "col_20150630",
+            "background": "#20150630"
+        },
+        {
+            "foreground": "#B2B2B2FF",
+            "scope": "col_20161026",
+            "background": "#20161026"
+        },
+        {
+            "foreground": "#B4B4B4FF",
+            "scope": "col_20151215",
+            "background": "#20151215"
+        },
+        {
+            "foreground": "#B4B4B4FF",
+            "scope": "col_20210113",
+            "background": "#20210113"
+        },
+        {
+            "foreground": "#B1B1B1FF",
+            "scope": "col_20170329",
+            "background": "#20170329"
+        },
+        {
+            "foreground": "#B5B5B5FF",
+            "scope": "col_20200407",
+            "background": "#20200407"
+        },
+        {
+            "foreground": "#B4B4B4FF",
+            "scope": "col_20220714",
+            "background": "#20220714"
+        },
+        {
+            "foreground": "#B3B3B3FF",
+            "scope": "col_20201222",
+            "background": "#20201222"
+        },
+        {
+            "foreground": "#B3B3B3FF",
+            "scope": "col_20210625",
+            "background": "#20210625"
+        },
+        {
+            "foreground": "#B2B2B2FF",
+            "scope": "col_20201127",
+            "background": "#20201127"
+        },
+        {
+            "foreground": "#B4B4B4FF",
+            "scope": "col_20211119",
+            "background": "#20211119"
+        },
+        {
+            "foreground": "#B4B4B4FF",
+            "scope": "col_20210515",
+            "background": "#20210515"
+        },
+        {
+            "foreground": "#979797FF",
+            "scope": "col_201704FF",
+            "background": "#201704FF"
+        },
+        {
+            "foreground": "#B5B5B5FF",
+            "scope": "col_20220209",
+            "background": "#20220209"
+        },
+        {
+            "foreground": "#B1B1B1FF",
+            "scope": "col_20210830",
+            "background": "#20210830"
+        },
+        {
+            "foreground": "#B6B6B6FF",
+            "scope": "col_20210601",
+            "background": "#20210601"
+        },
+        {
+            "foreground": "#B5B5B5FF",
+            "scope": "col_20191108",
+            "background": "#20191108"
+        },
+        {
+            "foreground": "#B5B5B5FF",
+            "scope": "col_20201208",
+            "background": "#20201208"
+        },
+        {
+            "foreground": "#B2B2B2FF",
+            "scope": "col_20210526",
+            "background": "#20210526"
+        },
+        {
+            "foreground": "#B4B4B4FF",
+            "scope": "col_20190211",
+            "background": "#20190211"
+        },
+        {
+            "foreground": "#B3B3B3FF",
+            "scope": "col_20181019",
+            "background": "#20181019"
+        },
+        {
+            "foreground": "#B6B6B6FF",
+            "scope": "col_20210701",
+            "background": "#20210701"
+        },
+        {
+            "foreground": "#B3B3B3FF",
+            "scope": "col_20210223",
+            "background": "#20210223"
+        },
+        {
+            "foreground": "#D8D8D8FF",
+            "scope": "col_247939FF",
+            "background": "#247939FF"
+        },
+        {
+            "foreground": "#B4B4B4FF",
+            "scope": "col_20210517",
+            "background": "#20210517"
+        },
+        {
+            "foreground": "#B2B2B2FF",
+            "scope": "col_20201028",
+            "background": "#20201028"
+        },
+        {
+            "foreground": "#E3E3E3FF",
+            "scope": "col_268074FF",
+            "background": "#268074FF"
+        },
+        {
+            "foreground": "#B4B4B4FF",
+            "scope": "col_20200513",
+            "background": "#20200513"
+        },
+        {
+            "foreground": "#B2B2B2FF",
+            "scope": "col_20200929",
+            "background": "#20200929"
+        },
+        {
+            "foreground": "#B2B2B2FF",
+            "scope": "col_20210225",
+            "background": "#20210225"
+        },
+        {
+            "foreground": "#B4B4B4FF",
+            "scope": "col_20220916",
+            "background": "#20220916"
+        },
+        {
+            "foreground": "#9A9A9AFF",
+            "scope": "col_320354FF",
+            "background": "#320354FF"
+        },
+        {
+            "foreground": "#B6B6B6FF",
+            "scope": "col_20200602",
+            "background": "#20200602"
+        },
+        {
+            "foreground": "#B3B3B3FF",
+            "scope": "col_20211022",
+            "background": "#20211022"
+        },
+        {
+            "foreground": "#B3B3B3FF",
+            "scope": "col_20190417",
+            "background": "#20190417"
+        },
+        {
+            "foreground": "#B2B2B2FF",
+            "scope": "col_20180927",
+            "background": "#20180927"
+        },
+        {
             "foreground": "#FFFFFFFF",
             "scope": "col_D2691EFF",
             "background": "#D2691EFF"
