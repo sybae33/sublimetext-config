@@ -2,7 +2,7 @@
 // and are overridden in turn by syntax-specific settings.
 {
 	"font_face": "D2Coding",
-	"font_size": 10,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -12,57 +12,11 @@
 	"show_encoding": true,
 
 	// Controls when white space is drawn. Any of the following options may be
-	// combined:
-	// - "selection": Draw white space under the current selection.
-	// - "leading": Draw any white space between the beginning of a line and the
-	//              first character.
-	// - "enclosed": Draw white space enclosed by other characters.
-	// - "trailing": Draw white space following the last character on a line.
-	// - "isolated": Draw white space on lines containing no other characters.
-	// - "all": All of the above, ie. always draw white space.
-	//
-	// These options may be further refined by appending any of the following
-	// separated by an underscore:
-	// - "none": Don't draw this kind of white space.
-	// - "tabs": Only draw tabs here.
-	// - "spaces": Only draw spaces here.
-	// - "mixed": Only draw white space that does not match the indentation
-	//            style. For example if "translate_tabs_to_spaces" is true only
-	//            draw tabs.
-	// - "mixed_tabs": Like "mixed" but only draw tabs.
-	// - "mixed_spaces": Like "mixed" but only draw spaces.
-	// - "all": Draw both tabs and spaces. This is the default.
-	//
-	// Note that options are applied in sequence. So a later option may override
-	// an earlier one.
-	//
-	// Examples:
-	// - ["selection", "trailing", "isolated"]:
-	//     Draw white space at the end of any lines and under the selection.
-	//
-	// - ["all_tabs", "selection"]:
-	//     Draw tabs anywhere and any white space under the selection.
-	//
-	// - ["all_mixed"]:
-	//     Draw any white space that does not match the indentation style.
-	//
-	// - ["leading_mixed", "isolated_mixed"]:
-	//     Draw any indentation that does not match the indentation style.
-	//
-	// - ["selection_mixed_tabs"]:
-	//     Draw only tabs under the selection and only if the indentation style
-	//     is spaces.
-	//
-	// - ["all_tabs", "selection"]:
-	//     Draw all tabs and any white space under the selection.
-	//
-	// - ["all", "selection_none"]:
-	//     Inverse of the default. Draw white space everywhere except under the
-	//     selection.
 	"draw_white_space": ["selection"],
 
 	// Display line endings in the status bar
 	"show_line_endings": true,
 
 	"autocomplete": true,
+	"color_scheme": "Mariana.sublime-color-scheme",
 }
