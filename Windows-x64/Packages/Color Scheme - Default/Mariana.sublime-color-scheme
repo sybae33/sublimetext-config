@@ -50,6 +50,96 @@
     "rules":
     [
         {
+            "foreground": "#D6D6D6FF",
+            "background": "#296871FF",
+            "scope": "col_296871FF"
+        },
+        {
+            "foreground": "#A2A2A2FF",
+            "background": "#320880FF",
+            "scope": "col_320880FF"
+        },
+        {
+            "foreground": "#C1C1C1FF",
+            "background": "#304947FF",
+            "scope": "col_304947FF"
+        },
+        {
+            "foreground": "#EEEEEEFF",
+            "background": "#259662FF",
+            "scope": "col_259662FF"
+        },
+        {
+            "foreground": "#B6B6B6FF",
+            "background": "#20210105",
+            "scope": "col_20210105"
+        },
+        {
+            "foreground": "#B0B0B0FF",
+            "background": "#20190131",
+            "scope": "col_20190131"
+        },
+        {
+            "foreground": "#B4B4B4FF",
+            "background": "#20200210",
+            "scope": "col_20200210"
+        },
+        {
+            "foreground": "#D5D5D5FF",
+            "background": "#307902FF",
+            "scope": "col_307902FF"
+        },
+        {
+            "foreground": "#B3B3B3FF",
+            "background": "#20200522",
+            "scope": "col_20200522"
+        },
+        {
+            "foreground": "#B5B5B5FF",
+            "background": "#20200610",
+            "scope": "col_20200610"
+        },
+        {
+            "foreground": "#B1B1B1FF",
+            "background": "#20210930",
+            "scope": "col_20210930"
+        },
+        {
+            "foreground": "#B2B2B2FF",
+            "background": "#20190523",
+            "scope": "col_20190523"
+        },
+        {
+            "foreground": "#B4B4B4FF",
+            "background": "#20200114",
+            "scope": "col_20200114"
+        },
+        {
+            "foreground": "#B6B6B6FF",
+            "background": "#20190401",
+            "scope": "col_20190401"
+        },
+        {
+            "foreground": "#B6B6B6FF",
+            "background": "#20210503",
+            "scope": "col_20210503"
+        },
+        {
+            "foreground": "#B3B3B3FF",
+            "background": "#20220124",
+            "scope": "col_20220124"
+        },
+        {
+            "foreground": "#B2B2B2FF",
+            "background": "#20211229",
+            "scope": "col_20211229"
+        },
+        {
+            "foreground": "#B4B4B4FF",
+            "background": "#20210311",
+            "scope": "col_20210311"
+        },
+        {
             "foreground": "#B2B2B2FF",
             "background": "#20210127",
             "scope": "col_20210127"
