@@ -50,6 +50,31 @@
     "rules":
     [
         {
+            "scope": "col_20221115",
+            "background": "#20221115",
+            "foreground": "#B4B4B4FF"
+        },
+        {
+            "scope": "col_20221116",
+            "background": "#20221116",
+            "foreground": "#B4B4B4FF"
+        },
+        {
+            "scope": "col_249824FF",
+            "background": "#249824FF",
+            "foreground": "#E8E8E8FF"
+        },
+        {
+            "scope": "col_20200401",
+            "background": "#20200401",
+            "foreground": "#B6B6B6FF"
+        },
+        {
+            "scope": "col_20181016",
+            "background": "#20181016",
+            "foreground": "#B4B4B4FF"
+        },
+        {
             "scope": "col_AAAAAAFF",
             "background": "#AAAAAAFF",
             "foreground": "#2A2A2AFF"
