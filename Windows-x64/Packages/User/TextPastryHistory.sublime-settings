@@ -123,19 +123,6 @@
 			{
 				"args":
 				{
-					"text": "1 1 2",
-				},
-				"command": "text_pastry_step",
-				"text": "1 1 2",
-			},
-			"key": "bed4ce69bb178ee0474acea7c3188868",
-			"label": "1 1 2",
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"text": "4 1 1",
 				},
 				"command": "text_pastry_step",
@@ -183,14 +170,27 @@
 			"key": "76370a01d1e0694d5d572b1907d9f98a",
 			"label": "3 1 1",
 		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 1 2",
+				},
+				"command": "text_pastry_step",
+				"text": "1 1 2",
+			},
+			"key": "bed4ce69bb178ee0474acea7c3188868",
+			"label": "1 1 2",
+		},
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "3 1 1",
+			"text": "1 1 2",
 		},
 		"command": "text_pastry_step",
-		"text": "3 1 1",
+		"text": "1 1 2",
 	},
 }
