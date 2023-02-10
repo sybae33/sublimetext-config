@@ -37,13 +37,13 @@
             <Item>\Backup\</Item>
             <Item>*\desktop.ini</Item>
         </Exclude>
-        <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
         <SizeMax Unit="None">0</SizeMax>
+        <TimeSpan Type="None">0</TimeSpan>
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>C:\Users\combsy\AppData\Roaming\Sublime Text\</Left>
+            <Left>C:\Users\kiros33\AppData\Roaming\Sublime Text\</Left>
             <Right>C:\Projects\zionex.com\sublimetext-config\Windows-x64\</Right>
         </Pair>
     </FolderPairs>
