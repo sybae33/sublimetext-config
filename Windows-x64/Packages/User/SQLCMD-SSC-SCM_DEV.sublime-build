@@ -1,0 +1,14 @@
+{
+	"working_dir": "${project_path:${folder}}",
+	"cmd": [
+				"sqlcmd", 
+				"-S", "10.92.12.182", 
+				"-d", "T3SMARTSCM",
+				"-U", "sa", 
+				"-P", "Seoul!1sskv001",
+				"-i", "$file"
+			],
+	"word_wrap": "false",
+    "encoding": "CP949"
+}
+
