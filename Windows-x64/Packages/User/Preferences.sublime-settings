@@ -2,7 +2,7 @@
 // and are overridden in turn by syntax-specific settings.
 {
 	"font_face": "D2Coding",
-	"font_size": 10,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"ActionScript",

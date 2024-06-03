@@ -50,6 +50,46 @@
     "rules":
     [
         {
+            "foreground": "#020202FF",
+            "background": "#848282FF",
+            "scope": "col_848282FF"
+        },
+        {
+            "foreground": "#5F5F5FFF",
+            "background": "#F0DACFFF",
+            "scope": "col_F0DACFFF"
+        },
+        {
+            "foreground": "#1E1E1EFF",
+            "background": "#FF8040FF",
+            "scope": "col_FF8040FF"
+        },
+        {
+            "foreground": "#A9A9A9FF",
+            "background": "#0000003F",
+            "scope": "col_0000003F"
+        },
+        {
+            "foreground": "#F8F8F8FF",
+            "background": "#1890FFFF",
+            "scope": "col_1890FFFF"
+        },
+        {
+            "foreground": "#FCFCFCFF",
+            "background": "#FFFFFF59",
+            "scope": "col_FFFFFF59"
+        },
+        {
+            "foreground": "#E9E9E9FF",
+            "background": "#177DDCFF",
+            "scope": "col_177DDCFF"
+        },
+        {
+            "scope": "col_02000001",
+            "foreground": "#B6B6B6FF",
+            "background": "#02000001"
+        },
+        {
             "foreground": "#B5B5B5FF",
             "scope": "col_00000006",
             "background": "#00000006"

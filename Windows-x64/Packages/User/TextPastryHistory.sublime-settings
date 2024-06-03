@@ -253,19 +253,6 @@
 			{
 				"args":
 				{
-					"text": "1 1 5",
-				},
-				"command": "text_pastry_step",
-				"text": "1 1 5",
-			},
-			"key": "ca734ffac66870f30421623f0e37ddd7",
-			"label": "1 1 5",
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"text": "1 1 6",
 				},
 				"command": "text_pastry_step",
@@ -287,14 +274,27 @@
 			"key": "bed4ce69bb178ee0474acea7c3188868",
 			"label": "1 1 2",
 		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 1 5",
+				},
+				"command": "text_pastry_step",
+				"text": "1 1 5",
+			},
+			"key": "ca734ffac66870f30421623f0e37ddd7",
+			"label": "1 1 5",
+		},
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "1 1 2",
+			"text": "1 1 5",
 		},
 		"command": "text_pastry_step",
-		"text": "1 1 2",
+		"text": "1 1 5",
 	},
 }
